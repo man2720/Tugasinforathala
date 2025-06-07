@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("--Welcome--")
 st.write("Tugas website informatika Muhammad Athala Putra Margana.")
-st.image("IMG-20250505-WA0000.jpg",width=500)
+st.image("2435338.jpg",width=500)
 
 st.title("Aplikasi Sederhana")
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
